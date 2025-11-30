@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZxNtnme3gFpJNdu7LZ7oJUnPN4Oj0Ak4)
+
 # Detecção de Fraude em Cartões de Crédito 💳
 
 Este projeto aplica técnicas de Machine Learning para identificar transações fraudulentas em um dataset altamente desbalanceado (0.17% de fraudes).
